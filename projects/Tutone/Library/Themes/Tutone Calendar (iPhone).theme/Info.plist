@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CalendarIconDateStyle</key>
+	<string>padding: 5px -1px; color: #000000; font-size: 35px; 
+	</string>
+	<key>CalendarIconDayStyle</key>
+	<string>padding: 2px 1px 0px 0px; color:#ffffff; font-size: 7px; 
+	</string>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>35</integer>
+		<key>TextColor</key>
+		<string>#000000</string>
+		<key>TextYoffset</key>
+		<integer>5</integer>
+		<key>TextXoffset</key>
+		<integer>0</integer>
+	</dict>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>10</integer>
+		<key>TextColor</key>
+		<string>#ffffff</string>
+		<key>TextYoffset</key>
+		<integer>0</integer>
+		<key>TextXoffset</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>
