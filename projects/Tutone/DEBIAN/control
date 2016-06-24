@@ -1,14 +1,17 @@
 Package: com.drewbydrew.tutone
 Name: Tutone
-Version: 1.0.0b4
+Version: 1.0.0b5
 Architecture: iphoneos-arm
 Description: Two amazing themes in one.
- When I started to make this theme,
- I couldn`t decide if I liked it better flat, or with a gradient.
+ Hi beta testers! Sorry it’s been so long since the previous update. I’ve been super swamped with school, and I just finished exams. But here I am, back at it, with a handful of new app icons. I promise updates will be a little more frequent now! Enjoy!
+
+
+
+ When I started to make this theme, I couldn’t decide if I liked it better flat, or with a gradient.
  
  So I did both.
  
- This theme includes two sets of icons, featuring over 120 in each. One set is flat, and the other has a gradient.
+ This theme includes two sets of icons, featuring over 130 in each. One set is flat, and the other has a gradient.
  This theme also includes a status bar theme, a settings theme, and three icon masks.
  Themed music controls are also available if you are using Winterboard (Anemone support is coming!).
  If you are using Anemone, most things should work right out of the box (except the music controls, sorry).

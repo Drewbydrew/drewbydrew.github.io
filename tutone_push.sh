@@ -5,5 +5,5 @@ cd /github/drewbydrew.github.io
 dpkg-scanpackages debs / > Packages
 bzip2 -fks Packages
 git add —-all
-git commit -m “Added Tutone beta 2”
+git commit -m “Added new icons”
 git push
