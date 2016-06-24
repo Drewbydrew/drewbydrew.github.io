@@ -5,11 +5,11 @@ Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//com.drewbydrew.tutone_1.0.0b5_iphoneos-arm.deb
-Size: 13027544
-MD5sum: ff4afa7b41eac53a7cb852337fe5e5fd
+Size: 13027534
+MD5sum: e5e1cf378ee48ce3929eceee7c33d64c
 Description: Two amazing themes in one. 
- When I started to make this theme, I couldn’t decide if I liked it better flat, or with a gradient. 
- I
+ When I started to make this theme, I couldn`t decide if I liked it better flat, or with a gradient. 
+ 
  So I did both. 
  
  This theme includes two sets of icons, featuring over 130 in each. One set is flat, and the other has a gradient. 
