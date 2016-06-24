@@ -2,9 +2,11 @@ cd /github/drewbydrew.github.io/projects ; dpkg-deb -b Tutone /github/drewbydrew
 dpkg-scanpackages debs / > Packages ; bzip2 -fks Packages ; git add --all ; git commit -m “Tutone Beta 6.“ ; git push ;
 
 cd /github/drewbydrew.github.io/projects
+find . -name ‘*.DS_Store’ -type f -delete
 dpkg-deb -b Tutone /github/drewbydrew.github.io/debs
 cd /github/drewbydrew.github.io
 dpkg-scanpackages debs / > Packages
-bzip2 -fks Packages ; git add --all
-git commit -m “Tutone Beta 6.“
+bzip2 -fks Packages
+git add --all
+git commit -m “Tutone Beta 7.“
 git push
