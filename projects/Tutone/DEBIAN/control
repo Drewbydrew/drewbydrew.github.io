@@ -1,28 +1,24 @@
-Package: com.drewbydrew.tutone
-Name: Tutone
-Version: 1.0.0b5
-Architecture: iphoneos-arm
-Description: Two amazing themes in one.
- Hi beta testers! Sorry it’s been so long since the previous update. I’ve been super swamped with school, and I just finished exams. But here I am, back at it, with a handful of new app icons. I promise updates will be a little more frequent now! Enjoy!
-
-
-
- When I started to make this theme, I couldn’t decide if I liked it better flat, or with a gradient.
+Package: com.drewbydrew.tutone 
+Name: Tutone 
+Version: 1.0.0b5 
+Architecture: iphoneos-arm 
+Description: Two amazing themes in one. 
+ When I started to make this theme, I couldn’t decide if I liked it better flat, or with a gradient. 
+ I
+ So I did both. 
  
- So I did both.
+ This theme includes two sets of icons, featuring over 130 in each. One set is flat, and the other has a gradient. 
+ This theme also includes a status bar theme, a settings theme, and three icon masks. 
+ Themed music controls are also available if you are using Winterboard (full Anemone support is coming!). 
+ If you are using Anemone, most things should work right out of the box. 
+ If you are using Winterboard, you will need to install IconBundles. 
+ Please let me know if something is not right, or if there is something you would like themed. 
+ There is lots more to come! Including a full CC theme, a more complete status bar theme, a custom loading indicator, full iPad support, and lots more! 
  
- This theme includes two sets of icons, featuring over 130 in each. One set is flat, and the other has a gradient.
- This theme also includes a status bar theme, a settings theme, and three icon masks.
- Themed music controls are also available if you are using Winterboard (Anemone support is coming!).
- If you are using Anemone, most things should work right out of the box (except the music controls, sorry).
- If you are using Winterboard, you will need to install IconBundles.
- Please let me know if something is not right, or if there is something you would like themed.
- There is lots more to come! Including a full CC theme, a more complete status bar theme, a custom loading indicator, full iPad support, and lots more!
+ Thank you for choosing Tutone :) 
  
- Thank you for choosing Tutone :)
- 
- If you would like to donate (though you should feel no obligation to do so), my PayPal is andrew.hocking@hotmail.ca
-Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
-Author: Andrew Hocking <andrew.hocking@hotmail.ca>
-Depends: mobilesubstrate
-Section: Themes
+ If you would like to donate (though you should feel no obligation to do so), my PayPal is andrew.hocking@hotmail.ca 
+Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca> 
+Author: Andrew Hocking <andrew.hocking@hotmail.ca> 
+Depends: mobilesubstrate 
+Section: Themes 
