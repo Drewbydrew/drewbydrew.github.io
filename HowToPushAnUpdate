@@ -1,0 +1,24 @@
+
+CHANGE VERSION NUMBER IN CONTROL FILE
+
+defaults write com.apple.finder AppleShowAllFiles -bool true
+killall Finder
+cd /github/drewbydrew.github.io/projects/Tutone/Library/Themes
+find . -name ‘*.DS_Store’ -type f -delete
+cd /github/drewbydrew.github.io/projects/Tutone/Library
+find . -name ‘*.DS_Store’ -type f -delete
+cd /github/drewbydrew.github.io/projects/Tutone/DEBIAN
+find . -name ‘*.DS_Store’ -type f -delete
+cd /github/drewbydrew.github.io/projects/Tutone
+find . -name ‘*.DS_Store’ -type f -delete
+cd /github/drewbydrew.github.io/projects
+find . -name ‘*.DS_Store’ -type f -delete
+dpkg-deb -b Tutone /github/drewbydrew.github.io/debs
+cd /github/drewbydrew.github.io
+dpkg-scanpackages debs / > Packages
+bzip2 -fks Packages
+git add --all
+git commit -m “Tutone Beta 8.”
+git push
+defaults write com.apple.finder AppleShowAllFiles -bool false
+killall Finder
