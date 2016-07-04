@@ -18,7 +18,7 @@ cd /github/drewbydrew.github.io
 dpkg-scanpackages debs / > Packages
 bzip2 -fks Packages
 git add --all
-git commit -m “TutoneJul4Take4”
+git commit -m “TutoneJul4Take5”
 git push
 defaults write com.apple.finder AppleShowAllFiles -bool false
 killall Finder
