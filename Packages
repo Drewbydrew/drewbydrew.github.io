@@ -6,7 +6,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//com.drewbydrew.tutone_1.0.0b8_iphoneos-arm.deb
 Size: 12708640
-MD5sum: 91ca801f8a51de9e9dee8490e9eeee05
+MD5sum: 963127cb572caf251307e71d19ff1030
 Description: Two amazing themes in one. 
  When I started to make this theme, I couldn`t decide if I liked it better flat, or with a gradient. 
  
@@ -23,6 +23,6 @@ Description: Two amazing themes in one.
  Thank you for choosing Tutone :) 
  
  If you would like to donate (though you should feel no obligation to do so), my PayPal is andrew.hocking@hotmail.ca
-author: Andrew Hocking <andrew.hocking@hotmail.ca>
 name: Tutone
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
