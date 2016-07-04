@@ -1,12 +1,12 @@
 Package: com.drewbydrew.tutone
-Version: 1.0.0b8
+Version: 1.0.0b9
 Section: Themes
 Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.drewbydrew.tutone_1.0.0b8_iphoneos-arm.deb
-Size: 12774686
-MD5sum: 434fa59e00c64964520d6d9efa6e7d4c
+Filename: debs//com.drewbydrew.tutone_1.0.0b9_iphoneos-arm.deb
+Size: 12774736
+MD5sum: 5a590d33a24b73cb41927135ec9e0dac
 Description: Two amazing themes in one. 
  When I started to make this theme, I couldn`t decide if I liked it better flat, or with a gradient. 
  
@@ -23,6 +23,6 @@ Description: Two amazing themes in one.
  Thank you for choosing Tutone :) 
  
  If you would like to donate (though you should feel no obligation to do so), my PayPal is andrew.hocking@hotmail.ca
-author: Andrew Hocking <andrew.hocking@hotmail.ca>
 name: Tutone
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
