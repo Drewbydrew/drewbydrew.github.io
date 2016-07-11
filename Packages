@@ -5,8 +5,8 @@ Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//com.drewbydrew.tutone_1.0.0b9.7_iphoneos-arm.deb
-Size: 12934866
-MD5sum: 215fd0be32fe36345f2640849505279a
+Size: 12934898
+MD5sum: 2167a7a1928bacd9d085d4c47d821b4b
 Description: Two amazing themes in one. 
  When I started to make this theme, I couldn`t decide if I liked it better flat, or with a gradient. 
  

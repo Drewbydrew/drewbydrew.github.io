@@ -17,9 +17,16 @@ cd /github/drewbydrew.github.io
 bzip2 -fks Packages
 cd /github
 find . -name ‘*.DS_Store’ -type f -delete
+cd /github/drewbydrew.github.io/projects/Tutone/Library/Themes
+find . -name ‘*.DS_Store’ -type f -delete
+cd /github/drewbydrew.github.io/projects/Tutone/Library
+find . -name ‘*.DS_Store’ -type f -delete
+cd /github/drewbydrew.github.io/projects/Tutone
+find . -name ‘*.DS_Store’ -type f -delete
 cd /github/drewbydrew.github.io
+find . -name ‘*.DS_Store’ -type f -delete
 git add --all
-git commit -m “RemoveDSstoreFiles”
+git commit -m “RemoveDSstoreFiles2”
 git push
 defaults write com.apple.finder AppleShowAllFiles -bool false
 killall Finder
