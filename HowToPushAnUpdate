@@ -3,22 +3,23 @@ CHANGE VERSION NUMBER IN CONTROL FILE
 
 defaults write com.apple.finder AppleShowAllFiles -bool true
 killall Finder
-cd /github/drewbydrew.github.io/projects/Tutone/Library/Themes
-find . -name ‘*.DS_Store’ -type f -delete
-cd /github/drewbydrew.github.io/projects/Tutone/Library
-find . -name ‘*.DS_Store’ -type f -delete
-cd /github/drewbydrew.github.io/projects/Tutone/DEBIAN
-find . -name ‘*.DS_Store’ -type f -delete
-cd /github/drewbydrew.github.io/projects/Tutone
+cd /github
 find . -name ‘*.DS_Store’ -type f -delete
 cd /github/drewbydrew.github.io/projects
-find . -name ‘*.DS_Store’ -type f -delete
 dpkg-deb -b Tutone /github/drewbydrew.github.io/debs
+cd /github
+find . -name ‘*.DS_Store’ -type f -delete
 cd /github/drewbydrew.github.io
 dpkg-scanpackages debs / > Packages
+cd /github
+find . -name ‘*.DS_Store’ -type f -delete
+cd /github/drewbydrew.github.io
 bzip2 -fks Packages
+cd /github
+find . -name ‘*.DS_Store’ -type f -delete
+cd /github/drewbydrew.github.io
 git add --all
-git commit -m “TutoneJul4Take8.5”
+git commit -m “RemoveDSstoreFiles”
 git push
 defaults write com.apple.finder AppleShowAllFiles -bool false
 killall Finder
