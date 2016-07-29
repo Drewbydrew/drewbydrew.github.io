@@ -26,3 +26,14 @@ Description: Two amazing themes in one.
 name: Tutone
 author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
+Package: io.pangu.nvwastone
+Version: 1.0
+Section: Jailbreak
+Architecture: iphoneos-arm
+Filename: debs//io.pangu.nvwastone_1.0_iphoneos-arm.deb
+Size: 10963638
+MD5sum: 1946c7f1667aee63b7941ba66170a7eb
+Description: iOS 9.2 - 9.3.3 Jailbreak by Pangu
+name: Pangu
+author: Pangu
+

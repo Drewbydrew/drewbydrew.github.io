@@ -3,21 +3,6 @@ Name: Tutone
 Version: 1.0.0b9.8
 Architecture: iphoneos-arm 
 Description: Two amazing themes in one. 
- When I started to make this theme, I couldn`t decide if I liked it better flat, or with a gradient. 
- 
- So I did both. 
- 
- This theme includes two sets of icons, featuring over 130 in each. One set is flat, and the other has a gradient. 
- This theme also includes a status bar theme, a settings theme, and three icon masks. 
- Themed music controls are also available if you are using Winterboard (full Anemone support is coming!). 
- If you are using Anemone, most things should work right out of the box. 
- If you are using Winterboard, you will need to install IconBundles. 
- Please let me know if something is not right, or if there is something you would like themed. 
- There is lots more to come! Including a full CC theme, a more complete status bar theme, a custom loading indicator, full iPad support, and lots more! 
- 
- Thank you for choosing Tutone :) 
- 
- If you would like to donate (though you should feel no obligation to do so), my PayPal is andrew.hocking@hotmail.ca 
 Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca> 
 Author: Andrew Hocking <andrew.hocking@hotmail.ca> 
 Depends: mobilesubstrate 
