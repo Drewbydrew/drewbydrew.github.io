@@ -1,0 +1,8 @@
+Package: com.drewbydrew.elcapitanloadingindicator 
+Name: El Capitan Loading Indicator  
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: The “beachball” loading indicator from Mac OS X 10.11. 
+Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca> 
+Author: Andrew Hocking <andrew.hocking@hotmail.ca> 
+Section: Themes 
