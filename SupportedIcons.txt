@@ -79,7 +79,9 @@ OneDrive
 OneNote
 Outlook
 Overcast
+PP
 Pages
+Pangu
 Paper
 Passbook
 Pebble (Old Version)
@@ -91,6 +93,7 @@ Photos
 Pinterest
 Pixelmator
 Podcasts
+Pokémon GO
 PowerPoint
 ProTube
 Provenance

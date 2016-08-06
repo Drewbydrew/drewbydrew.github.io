@@ -4,22 +4,24 @@ Section: Themes
 Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
 Architecture: iphoneos-arm
 Filename: debs//com.drewbydrew.elcapitanloadingindicator_1.0_iphoneos-arm.deb
-Size: 149600
-MD5sum: 00af09ade07aba6c345e13c1cd1b3c55
+Size: 150126
+MD5sum: b9c473a4c67621453c028d7ef1106c69
 Description: The “beachball” loading indicator from Mac OS X 10.11.
+depiction: The “beachball” loading indicator from Mac OS X 10.11. Requires Anemone or WinterBoard to function.
 name: El Capitan Loading Indicator
 author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
 Package: com.drewbydrew.tutone
-Version: 1.0.0b9.8
+Version: 1.0.0b9.9
 Section: Themes
 Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.drewbydrew.tutone_1.0.0b9.8_iphoneos-arm.deb
-Size: 12932588
-MD5sum: 97257200b2330292c7c1082a7d000f07
+Filename: debs//com.drewbydrew.tutone_1.0.0b9.9_iphoneos-arm.deb
+Size: 13293128
+MD5sum: 4e964ef8bb495623c52a44af4adec003
 Description: Two amazing themes in one.
+depiction: A gradient theme with over 140 icons, a flat theme with over 140 icons, three icon masks, themed music controls, themed status bar elements, and more to come. http://i.imgur.com/4alVhdM.png
 name: Tutone
 author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
