@@ -1,12 +1,17 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
+			<name>Message me on Reddit</name>
+			<url>https://www.reddit.com/message/compose?to=Drewbydrew</url>
 			<iconclass>glyphicon glyphicon-user</iconclass>
 		</link>
+        <link>
+            <name>Donate to me on PayPal</name>
+            <url>https://paypal.me/AndrewHocking</url>
+            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+        </link>
 		<link>
-			<name>I want this depiction template</name>
+			<name>Get this depiction template</name>
 			<url>https://github.com/supermamon/Reposi3</url>
 			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
 		</link>
