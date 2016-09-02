@@ -1,0 +1,27 @@
+Package: com.drewbydrew.elcapitanloadingindicator
+Version: 1.1
+Section: Themes
+Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
+Architecture: iphoneos-arm
+Filename: debs//com.drewbydrew.elcapitanloadingindicator_1.1_iphoneos-arm.deb
+Size: 216880
+MD5sum: 4b236499a2201d880525aa1627d36b37
+Description: The “beachball” loading indicator from Mac OS X 10.11.
+depiction: https://drewbydrew.github.io/repo/depictions/?p= com.drewbydrew.elcapitanloadingindicator
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
+name: El Capitan Loading Indicator
+
+Package: com.drewbydrew.tutone
+Version: 1.0.0b9.9
+Section: Themes
+Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.drewbydrew.tutone_1.0.0b9.9_iphoneos-arm.deb
+Size: 13293050
+MD5sum: 67f0092ea4e96bc41705121bd5209fdc
+Description: Two amazing themes in one.
+depiction: https://drewbydrew.github.io/repo/depictions/?p= com.drewbydrew.tutone
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
+name: Tutone
+
