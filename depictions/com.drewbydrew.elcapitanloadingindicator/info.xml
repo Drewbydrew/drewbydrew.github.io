@@ -1,0 +1,37 @@
+<package>
+	<id>com.drewbydrew.elcapitanloadingindicator</id>
+	<name>El Capitan Loading Indicator</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+            <maxiOS>9.3.3</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<descriptionlist>
+        <description>A theme for the loading indicator to turn it into the "beachball" one first found in OS X 10.11, El Capitan.</description>
+		<description>Apply with Anemone or WinterBoard.</description>
+    </descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>How it looks in Cydia.</description>
+			<image>beachball1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>How it looks in a black-type status bar.</description>
+			<image>beachball2.jpg</image>
+		</screenshot>
+        <screenshot>
+            <description>How it looks in a white-type status bar.</description>
+            <image>beachball3.jpg</image>
+        </screenshot>
+	</screenshots>
+    <changelog>
+        <change>Sorry this update took so long to come out. Lots happening in my life right now.</change>
+        <change>Partially fixed issue where indicator would sometimes only appear as a solid white ball.</change>
+        <change>This fix has only been tested on an iPhone 6S on iOS 9.3.3. Please give feedback if it's not good on your end.</change>
+        <change>I am looking into whether or not it is possible for it to always be coloured, but I think this is an Apple-imposed limitation. Give me time. I will try.</change>
+	</changelog>
+</package>
