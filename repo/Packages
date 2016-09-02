@@ -8,8 +8,8 @@ Size: 216890
 MD5sum: 0297bdd52c75e3a9c74ab12eadfcc206
 Description: The “beachball” loading indicator from Mac OS X 10.11.
 name: El Capitan Loading Indicator
-author: Andrew Hocking <andrew.hocking@hotmail.ca>
 depiction: The “beachball” loading indicator from Mac OS X 10.11. Requires Anemone or WinterBoard to function.
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
 Package: com.drewbydrew.tutone
 Version: 1.0.0b9.9
@@ -22,6 +22,6 @@ Size: 13293130
 MD5sum: 329def763f6e3454a5ae2c01472cb492
 Description: Two amazing themes in one.
 name: Tutone
-author: Andrew Hocking <andrew.hocking@hotmail.ca>
 depiction: A gradient theme with over 140 icons, a flat theme with over 140 icons, three icon masks, themed music controls, themed status bar elements, and more to come. http://i.imgur.com/4alVhdM.png
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
 

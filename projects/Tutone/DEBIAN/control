@@ -3,7 +3,7 @@ Name: Tutone
 Version: 1.0.0b9.9
 Architecture: iphoneos-arm 
 Description: Two amazing themes in one. 
-Depiction: A gradient theme with over 140 icons, a flat theme with over 140 icons, three icon masks, themed music controls, themed status bar elements, and more to come. http://i.imgur.com/4alVhdM.png 
+Depiction: https://drewbydrew.github.io/repo/depictions/?p= com.drewbydrew.tutone
 Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca> 
 Author: Andrew Hocking <andrew.hocking@hotmail.ca> 
 Depends: mobilesubstrate 
