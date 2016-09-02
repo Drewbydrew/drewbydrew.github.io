@@ -1,0 +1,19 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Message me on Reddit</name>
+			<url>https://www.reddit.com/message/compose?to=Drewbydrew</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+        <link>
+            <name>Donate to me on PayPal</name>
+            <url>https://paypal.me/AndrewHocking</url>
+            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+        </link>
+		<link>
+			<name>Get this depiction template</name>
+			<url>https://github.com/supermamon/Reposi3</url>
+			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
