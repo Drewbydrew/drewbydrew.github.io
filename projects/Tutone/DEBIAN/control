@@ -3,7 +3,7 @@ Name: Tutone
 Version: 1.0.0b9.9
 Architecture: iphoneos-arm 
 Description: Two amazing themes in one. 
-Depiction: https://drewbydrew.github.io/repo/depictions/?p= com.drewbydrew.tutone
+Depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.tutone
 Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca> 
 Author: Andrew Hocking <andrew.hocking@hotmail.ca> 
 Depends: mobilesubstrate 
