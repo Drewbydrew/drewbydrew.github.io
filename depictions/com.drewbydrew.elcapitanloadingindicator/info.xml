@@ -13,6 +13,7 @@
 	<descriptionlist>
         <description>A theme for the loading indicator to turn it into the "beachball" one first found in OS X 10.11, El Capitan.</description>
 		<description>Enable with FreeLoader.</description>
+        <description>In FreeLoader, set the image count to 20 and the FPS to 30, and choose the theme for all of the sections.</description>
     </descriptionlist>
 	<screenshots>
 		<screenshot>
