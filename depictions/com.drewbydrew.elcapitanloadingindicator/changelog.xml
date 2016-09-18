@@ -1,12 +1,6 @@
 <changelog>
-    <changes>
-        <version>1.2</version>
-        <change>Now requires FreeLoader tweak.</change>
-        <change>Fixed white status bar issue.</change>
-        <change>Made the animation smoother.</change>
-    </changes>
 	<changes>
-		<version>1.1</version>
+		<version>1.0.1</version>
         <change>Sorry this update took so long to come out. Lots happening in my life right now.</change>
 		<change>Partially fixed issue where indicator would sometimes only appear as a solid white ball.</change>
 		<change>This fix has only been tested on an iPhone 6S on iOS 9.3.3. Please give feedback if it's not good on your end.</change>
