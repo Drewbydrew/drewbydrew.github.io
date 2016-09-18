@@ -22,13 +22,13 @@
             <image>tutone2.png</image>
         </screenshot>
     </screenshots>
-	<changelog>
-		<change>I lost my previous changelog. So I’m starting fresh.</change>
-	</changelog>
 	<links>
         <link>
             <name>List of themed icons</name>
             <url>https://drewbydrew.github.io/tutoneiconlist</url>
         </link>
     </links>
+    <changelog>
+		<change>I lost my previous changelog. So I’m starting fresh.</change>
+	</changelog>
 </package>

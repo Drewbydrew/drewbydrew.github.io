@@ -1,7 +1,7 @@
 <package>
 	<id>com.drewbydrew.elcapitanloadingindicator</id>
 	<name>El Capitan Loading Indicator</name>
-	<version>1.2</version>
+	<version>1.2.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -13,7 +13,8 @@
 	<descriptionlist>
         <description>A theme for the loading indicator to turn it into the "beachball" one first found in OS X 10.11, El Capitan.</description>
 		<description>Enable with FreeLoader.</description>
-        <description>In FreeLoader, set the image count to 20 and the FPS to 30, and choose the theme for all of the sections.</description>
+        <description>In FreeLoader, set the image count to 20 and the FPS to 30, and choose the theme for all of the sections. Don't respring yet.</description>
+        <description>Then, to have the indicator work in apps like Cydia, where FreeLoader doesn't work, enable it in either Anemone or WinterBoard. Respring from Anemone or WinterBoard.</description>
     </descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -29,9 +30,13 @@
             <image>beachball3.jpg</image>
         </screenshot>
 	</screenshots>
+    <links>
+        <link>
+            <name>How to enable (video tutorial)</name>
+            <url>https://youtu.be/sP4cUEyFqAU</url>
+        </link>
+    </links>
     <changelog>
-        <change>Now requires FreeLoader to function.</change>
-        <change>Fixes the white status bar issue.</change>
-        <change>Makes the animation smoother.</change>
+        <change>Re-adds compatibility with Anemone or WinterBoard in order to work in apps like Cydia, where FreeLoader doesn't work.</change>
 	</changelog>
 </package>
