@@ -1,6 +1,20 @@
 <changelog>
+    <changes>
+        <version>1.2.2</version>
+        <change>Re-adds compatibility with Anemone or WinterBoard in order to work in apps like Cydia, where FreeLoader doesn't work.</change>
+    </changes>
+    <changes>
+        <version>1.2.1</version>
+        <change>Added FreeLoader as a dependency.</change>
+    </changes>
+    <changes>
+        <version>1.2</version>
+        <change>Now requires FreeLoader to function.</change>
+        <change>Fixes the white status bar issue.</change>
+        <change>Makes the animation smoother.</change>
+    </changes>
 	<changes>
-		<version>1.0.1</version>
+		<version>1.1</version>
         <change>Sorry this update took so long to come out. Lots happening in my life right now.</change>
 		<change>Partially fixed issue where indicator would sometimes only appear as a solid white ball.</change>
 		<change>This fix has only been tested on an iPhone 6S on iOS 9.3.3. Please give feedback if it's not good on your end.</change>

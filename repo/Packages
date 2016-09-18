@@ -1,16 +1,16 @@
 Package: com.drewbydrew.elcapitanloadingindicator
-Version: 1.2.1
+Version: 1.2.2
 Section: Themes
 Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
 Depends: com.joshdoctors.freeloader
 Architecture: iphoneos-arm
-Filename: debs//com.drewbydrew.elcapitanloadingindicator_1.2.1_iphoneos-arm.deb
-Size: 248528
-MD5sum: d7d221ee5fffeba113b967b2fd063e83
+Filename: debs//com.drewbydrew.elcapitanloadingindicator_1.2.2_iphoneos-arm.deb
+Size: 464574
+MD5sum: 984739efc954afc7724b07e4ebdc276d
 Description: The “beachball” loading indicator from Mac OS X 10.11.
-author: Andrew Hocking <andrew.hocking@hotmail.ca>
-depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.elcapitanloadingindicator
 name: El Capitan Loading Indicator
+depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.elcapitanloadingindicator
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
 Package: com.drewbydrew.tutone
 Version: 1.0.0b9.9
@@ -22,7 +22,7 @@ Filename: debs//com.drewbydrew.tutone_1.0.0b9.9_iphoneos-arm.deb
 Size: 13293130
 MD5sum: 329def763f6e3454a5ae2c01472cb492
 Description: Two amazing themes in one.
-author: Andrew Hocking <andrew.hocking@hotmail.ca>
-depiction: A gradient theme with over 140 icons, a flat theme with over 140 icons, three icon masks, themed music controls, themed status bar elements, and more to come. http://i.imgur.com/4alVhdM.png
 name: Tutone
+depiction: A gradient theme with over 140 icons, a flat theme with over 140 icons, three icon masks, themed music controls, themed status bar elements, and more to come. http://i.imgur.com/4alVhdM.png
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
