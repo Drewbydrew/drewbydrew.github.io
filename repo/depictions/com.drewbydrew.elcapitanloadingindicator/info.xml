@@ -30,6 +30,12 @@
             <image>beachball3.jpg</image>
         </screenshot>
 	</screenshots>
+    <links>
+        <link>
+            <name>How to enable (video tutorial)</name>
+            <url>https://youtu.be/sP4cUEyFqAU</url>
+        </link>
+    </links>
     <changelog>
         <change>Re-adds compatibility with Anemone or WinterBoard in order to work in apps like Cydia, where FreeLoader doesn't work.</change>
 	</changelog>
