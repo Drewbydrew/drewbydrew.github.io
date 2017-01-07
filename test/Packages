@@ -1,0 +1,28 @@
+Package: com.axinen.example
+Version: 1.0
+Section: Themes
+Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.axinen.example_1.0_iphoneos-arm.deb
+Size: 40229898
+MD5sum: 16cf7b26b8ca6b4def4db805ca991553
+Description: Example Anemone Theme.
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
+name: Example Theme
+depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.tutone
+
+Package: com.drewbydrew.tutone
+Version: 1.0.0b10
+Section: Themes
+Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.drewbydrew.tutone_1.0.0b10_iphoneos-arm.deb
+Size: 7802380
+MD5sum: a6583c9fa5ffe77072e1045f200fb760
+Description: Two amazing themes in one.
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
+name: Tutone
+depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.tutone
+
