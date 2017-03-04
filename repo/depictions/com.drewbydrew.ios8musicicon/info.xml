@@ -1,0 +1,20 @@
+<package>
+	<id>com.drewbydrew.ios8musicicon</id>
+	<name>iOS 8 - 8.3 Music Icon</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.4</miniOS>
+      <maxiOS>20</maxiOS>
+      <otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<descriptionlist>
+        <description>The Music app icon introduced is a bit of an eyesore. This brings back the old icon from iOS 8.0 - 8.3.</description>
+		<description>Enable with Anemone.</description>
+  </descriptionlist>
+	<changelog>
+        <change>Initial release.</change>
+	</changelog>
+</package>

@@ -1,0 +1,34 @@
+<package>
+	<id>com.drewbydrew.tutone</id>
+	<name>Tutone</name>
+	<version>1.0.0b10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+        </firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A gradient theme with over 140 icons, a flat theme with over 140 icons, three icon masks, themed music controls, themed status bar elements, and more to come.</description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Gradient theme on the left. Flat theme on the right.</description>
+            <image>tutone1.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Better, more in-depth screenshots coming soon.</description>
+            <image>tutone2.png</image>
+        </screenshot>
+    </screenshots>
+	<links>
+        <link>
+            <name>List of themed icons</name>
+            <url>https://drewbydrew.github.io/tutoneiconlist</url>
+        </link>
+    </links>
+    <changelog>
+		<change>I lost my previous changelog. So I’m starting fresh.</change>
+	</changelog>
+</package>

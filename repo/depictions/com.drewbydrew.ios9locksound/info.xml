@@ -1,0 +1,20 @@
+<package>
+	<id>com.drewbydrew.ios9locksound</id>
+	<name>iOS 9 Lock Sound</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.1.1</miniOS>
+      <maxiOS>10.1.1</maxiOS>
+      <otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<descriptionlist>
+        <description>What is the new sound even supposed to be, a door slamming shut? This reenables the old lock sound from iOS 9.</description>
+		<description>Enable with Anemone or WinterBoard.</description>
+  </descriptionlist>
+	<changelog>
+        <change>Initial release.</change>
+	</changelog>
+</package>
