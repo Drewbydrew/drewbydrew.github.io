@@ -6,39 +6,39 @@ Depends: com.joshdoctors.freeloader
 Architecture: iphoneos-arm
 Filename: debs//com.drewbydrew.elcapitanloadingindicator_1.2.2_iphoneos-arm.deb
 Size: 464554
-MD5sum: 60b293cf51981fbedfb1251644333344
+MD5sum: 96a4db41b7a67bf16d5bc24bed799f01
 Description: The “beachball” loading indicator from Mac OS X 10.11.
 depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.elcapitanloadingindicator
-author: Andrew Hocking <andrew.hocking@hotmail.ca>
 name: El Capitan Loading Indicator
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
 Package: com.drewbydrew.ios8musicicon
-Version: 1.1
+Version: 1.2
 Section: Themes
 Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Architecture: iphoneos-arm
-Filename: debs//com.drewbydrew.ios8musicicon_1.1_iphoneos-arm.deb
-Size: 992880
-MD5sum: 733686f698cc79dbec8d25179f133be5
+Filename: debs//com.drewbydrew.ios8musicicon_1.2_iphoneos-arm.deb
+Size: 993220
+MD5sum: 81fc89f78896ce907dd495d99d237ba9
 Description: Brings back the music icon from iOS 8.0 - 8.3. That new one is an eyesore. Requires Anemone.
 depiction: https://drewbydrew.github.io/repo/depictions/?p= com.drewbydrew.ios9locksound
-author: Andrew Hocking <andrew.hocking@hotmail.ca>
 name: iOS 8 - 8.3 Music Icon
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
 Package: com.drewbydrew.ios9locksound
-Version: 1.1
+Version: 1.2
 Section: Themes
 Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.drewbydrew.ios9locksound_1.1_iphoneos-arm.deb
-Size: 85006
-MD5sum: 298f191783dbce3f141b4177fd4fe727
+Filename: debs//com.drewbydrew.ios9locksound_1.2_iphoneos-arm.deb
+Size: 85270
+MD5sum: 2568d7da2317f62ed30f4a8d261ae7f5
 Description: The lock sound from iOS 9.
 depiction: https://drewbydrew.github.io/repo/depictions/?p= com.drewbydrew.ios9locksound
-author: Andrew Hocking <andrew.hocking@hotmail.ca>
 name: iOS 9 Lock Sound
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
 Package: com.drewbydrew.tutone
 Version: 1.0.0b10
@@ -48,11 +48,11 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//com.drewbydrew.tutone_1.0.0b10_iphoneos-arm.deb
 Size: 6730002
-MD5sum: 88aef18b668613fc70431ce971534511
+MD5sum: 559366c14549ff9849812f040d4adac1
 Description: Two amazing themes in one.
 depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.tutone
-author: Andrew Hocking <andrew.hocking@hotmail.ca>
 name: Tutone
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
 Package: com.drewbydrew.tutone.legacy
 Version: 1.0.0b9.9
@@ -62,9 +62,9 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//com.drewbydrew.tutone.legacy_1.0.0b9.9_iphoneos-arm.deb
 Size: 13422366
-MD5sum: df48f028c69319bd6112bd4c50f1c003
+MD5sum: 1ce7b47b7e70821a16e58ff2147212b8
 Description: Two amazing themes in one. WinterBoard version.
 depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.tutone
-author: Andrew Hocking <andrew.hocking@hotmail.ca>
 name: Tutone (Legacy)
+author: Andrew Hocking <andrew.hocking@hotmail.ca>
 
