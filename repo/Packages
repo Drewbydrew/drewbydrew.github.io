@@ -9,22 +9,22 @@ Size: 464554
 MD5sum: 60b293cf51981fbedfb1251644333344
 Description: The “beachball” loading indicator from Mac OS X 10.11.
 name: El Capitan Loading Indicator
-depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.elcapitanloadingindicator
 author: Andrew Hocking <andrew.hocking@hotmail.ca>
+depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.elcapitanloadingindicator
 
 Package: com.drewbydrew.ios8musicicon
-Version: 1.0
+Version: 1.1
 Section: Themes
 Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Architecture: iphoneos-arm
-Filename: debs//com.drewbydrew.ios8musicicon_1.0_iphoneos-arm.deb
-Size: 992876
-MD5sum: 16753fea619c82d9fe952442e9013ffb
+Filename: debs//com.drewbydrew.ios8musicicon_1.1_iphoneos-arm.deb
+Size: 992880
+MD5sum: 733686f698cc79dbec8d25179f133be5
 Description: Brings back the music icon from iOS 8.0 - 8.3. That new one is an eyesore. Requires Anemone.
 name: iOS 8 - 8.3 Music Icon
-depiction: https://drewbydrew.github.io/repo/depictions/?p= com.drewbydrew.ios9locksound
 author: Andrew Hocking <andrew.hocking@hotmail.ca>
+depiction: https://drewbydrew.github.io/repo/depictions/?p= com.drewbydrew.ios9locksound
 
 Package: com.drewbydrew.ios9locksound
 Version: 1.0
@@ -33,12 +33,12 @@ Maintainer: Andrew Hocking <andrew.hocking@hotmail.ca>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//com.drewbydrew.ios9locksound_1.0_iphoneos-arm.deb
-Size: 84934
-MD5sum: c7c3c740ef5e9724275d221d5cce719d
+Size: 85002
+MD5sum: 80bfe8c080266d09e29f630d2684e0cd
 Description: The lock sound from iOS 9.
 name: iOS 9 Lock Sound
-depiction: https://drewbydrew.github.io/repo/depictions/?p= com.drewbydrew.ios9locksound
 author: Andrew Hocking <andrew.hocking@hotmail.ca>
+depiction: https://drewbydrew.github.io/repo/depictions/?p= com.drewbydrew.ios9locksound
 
 Package: com.drewbydrew.tutone
 Version: 1.0.0b10
@@ -51,8 +51,8 @@ Size: 6730002
 MD5sum: 88aef18b668613fc70431ce971534511
 Description: Two amazing themes in one.
 name: Tutone
-depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.tutone
 author: Andrew Hocking <andrew.hocking@hotmail.ca>
+depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.tutone
 
 Package: com.drewbydrew.tutone.legacy
 Version: 1.0.0b9.9
@@ -65,6 +65,6 @@ Size: 13422366
 MD5sum: df48f028c69319bd6112bd4c50f1c003
 Description: Two amazing themes in one. WinterBoard version.
 name: Tutone (Legacy)
-depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.tutone
 author: Andrew Hocking <andrew.hocking@hotmail.ca>
+depiction: https://drewbydrew.github.io/repo/depictions/?p=com.drewbydrew.tutone
 
