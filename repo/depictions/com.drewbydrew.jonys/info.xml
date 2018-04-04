@@ -1,0 +1,15 @@
+<package>
+	<id>com.drewbydrew.jonys</id>
+	<name>Jonys</name>
+	<version>1.0</version>
+	<descriptionlist>
+        <description>Unapologetically Jony.</description>
+		<description>As requested by /u/ybjohnny</description>
+    </descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is what perfection looks like.</description>
+			<image>jony.jpg</image>
+		</screenshot>
+	</screenshots>
+</package>
